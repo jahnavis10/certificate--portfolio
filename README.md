@@ -8,5 +8,4 @@ This repository contains digital copies of my course completion and skill certif
 - SQL & Databases
 - Other Technical Skills
 
-### 🔒 Note
-This repository is private and meant for personal use, portfolio building, and job applications.
+
