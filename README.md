@@ -3,6 +3,7 @@ This repository contains digital copies of my course completion and skill certif
 
 ### 📂 Categories
 - Data Analytics
+- Power BI
 - Excel & Spreadsheets
 - Python & Programming
 - SQL & Databases
